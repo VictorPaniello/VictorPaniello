@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Víctor Paniello and I'm a Junior Software Developer, from Barcelona</h2>
+<h2 align="left">Hi 👋! My name is Víctor Paniello and I'm a Junior Software Developer from Barcelona</h2>
 
 ###
 
